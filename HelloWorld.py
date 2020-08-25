@@ -1,2 +1,2 @@
-#Hello World Program in Python Language
+#Python Hello World Program
 print("Hello World")
